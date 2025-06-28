@@ -1,3 +1,4 @@
+import React from 'react'; // ✅ WAJIB karena pakai JSX
 import { createContext, useState, useEffect } from 'react';
 
 export const ThemeContext = createContext();

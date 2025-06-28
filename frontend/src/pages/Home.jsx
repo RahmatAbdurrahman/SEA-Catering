@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Home() {
   return (
     <section className="p-8 text-center">
