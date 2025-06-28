@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Button from '../components/Button';
+import Button from '../components/AddToCartButton';
 
 export default function Cart() {
   const [cartItems, setCartItems] = useState([
